@@ -18,3 +18,7 @@ contains 98 Brain MRI Images that are non-tumorous. The data was split in the fo
 
 ●	ReLU transfer function. Rectified linear unit (ReLU) is a transfer function used in convolutional neural network. This is basically a linear function that converts all values less than zero to 0 and more than zero to 1.
 ●	Fully Connected Neural Network (FCNN). Fully connected layer is used in a convolution neural network as the last layer of the stack of convolution and pooling layer. Fully connected neural network has an input layer and one output layer. The number of hidden layers may vary.
+
+![image](https://github.com/topgun007-oss/Brain-Tumor-detection-using-ConVnet-Algorithm/assets/83120036/5d9a70e3-3e6f-45f4-ae15-c7d0ab1de910)
+the accuracy stand above than 92 percent , it can further be improved using transfer learning.
+
